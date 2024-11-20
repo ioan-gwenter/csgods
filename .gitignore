@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+csgo_mm_data
+
 # Distribution / packaging
 .Python
 build/
